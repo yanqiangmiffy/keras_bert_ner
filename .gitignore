@@ -1,0 +1,14 @@
+simple-track/data/
+dataset/
+.idea/
+__pycache__
+.git/
+models/
+.ipynb_checkpoints/
+simple-track/result/
+simple-track/trans_data/
+catboost_info/
+simple-track/features/*.pickle
+jet_complex_data/
+tmp/
+parameter/chinese_L-12_H-768_A-12
